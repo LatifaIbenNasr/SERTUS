@@ -6,7 +6,7 @@ SERTUS is a spontaneous speech emotion recognition corpus built from Tunisian Ar
 
 ## 🛠️ Data Collection and Annotation Pipeline
 
-➡️ [Click here to see the full pipeline](documentation/pipeline.md)
+➡️ [Click here to see the full pipeline](pipeline.md)
 
 Or scroll below for a summary:
 
