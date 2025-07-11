@@ -1,6 +1,6 @@
 # 🎧 SERTUS: Speech Emotion Recognition in Tunisian Spontaneous Dialect
 
-## 📌 Overview
+## Overview
 
 SERTUS is a spontaneous speech emotion recognition corpus built from Tunisian Arabic broadcast materials. The corpus is annotated with both categorical and dimensional (VAD) emotion labels.
 
