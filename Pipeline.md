@@ -93,7 +93,7 @@ To build a **spontaneous emotional speech corpus** in **Tunisian Arabic dialect*
 
 ---
 
-### 4. 👥 **Annotators**
+### 4. **Annotators**
 
 * **Number**: **3 annotators** (2 women, 1 man)
 * **Age range**: **27–31 years**
