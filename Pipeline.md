@@ -10,7 +10,6 @@ To build a **spontaneous emotional speech corpus** in **Tunisian Arabic dialect*
 
   * TV shows
   * Debates
-  * Podcasts
   * Interviews
 
 * **Covered domains**:
