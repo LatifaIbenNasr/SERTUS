@@ -1,10 +1,10 @@
-### 🎯 **Objective**
+###  **Objective**
 
 To build a **spontaneous emotional speech corpus** in **Tunisian Arabic dialect** from broadcast media, annotated with **categorical** and **dimensional (VAD)** emotion labels, while ensuring **data anonymization** and **high-quality standards**.
 
 ---
 
-### 1. 🎙️ **Selection of Broadcast Materials**
+### 1. **Selection of Broadcast Materials**
 
 * **Sources**: Tunisian broadcast content retrieved from **YouTube**, including:
 
@@ -36,7 +36,7 @@ To build a **spontaneous emotional speech corpus** in **Tunisian Arabic dialect*
 
 ---
 
-### 2. ✂️ **Segment Extraction and Preprocessing**
+### 2. **Segment Extraction and Preprocessing**
 
 * **Tool used**: [**WavePad**](https://www.nch.com.au/wavepad/index.html)
 
@@ -55,7 +55,7 @@ To build a **spontaneous emotional speech corpus** in **Tunisian Arabic dialect*
 
 ---
 
-### 3. 🏷️ **Emotion Annotation**
+### 3.  **Emotion Annotation**
 
 #### 🔹 **Dimensional Annotation** *(Valence, Arousal, Dominance)*
 
@@ -97,7 +97,7 @@ To build a **spontaneous emotional speech corpus** in **Tunisian Arabic dialect*
 ### 4. 👥 **Annotators**
 
 * **Number**: **3 annotators** (2 women, 1 man)
-* **Age range**: **26–31 years**
+* **Age range**: **27–31 years**
 * **Profile**:
 
   * Native speakers of **Tunisian dialect**
